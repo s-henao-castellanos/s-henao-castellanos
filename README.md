@@ -1,5 +1,5 @@
-* Physicist from U. Andes, Colombia.
-* Principal research (master's) on astronomy and astrophysics
+* Physicist and MSc on physics from U. Andes, Colombia,
+* Principal research on astronomy and astrophysics
 * Interests (unordered):
    * Programming languages,
    * Education,
